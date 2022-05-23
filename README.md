@@ -1,5 +1,4 @@
-<h1>Tugas Besar KU1102 Pengenalan Komputasi</h1>
-<h2>Algoritma dan Pemrograman</h2>
+<h1>Tugas Besar 1 KU1102 Pengenalan Komputasi</h1>
 
 ## "Smart Microwave"
 <br>
