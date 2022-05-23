@@ -1,6 +1,8 @@
 <h1>Tugas Besar KU1102 Pengenalan Komputasi</h1>
 <h2>Algoritma dan Pemrograman</h2>
 
+# SMART MICROWAVE
+<br>
 <p>Disusun oleh:</p>
 <p>Kelompok 5 - Kelas 16 STEI</p>
 <table border = "1">
