@@ -1,6 +1,6 @@
 <h1>Tugas Besar 1 KU1102 Pengenalan Komputasi</h1>
 
-## "Smart Microwave"
+## <i> "Smart Microwave" </i>
 <br>
 <p>Disusun oleh:</p>
 <p>Kelompok 5 - Kelas 16 STEI</p>
